@@ -1,0 +1,66 @@
+.stl_select-wrapper {
+  font-family: "Arial", sans-serif;
+  color: #333;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.stl_select-wrapper form {
+  position: relative;
+}
+
+.stl_select-wrapper p, .stl_select-wrapper form {
+  margin-bottom: 15px;
+}
+
+.stl_select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  box-sizing: border-box; /* Assures that padding does not affect the final computed width of the select */
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none; /* Removes default styling provided by the browser */
+}
+
+#picto_fleche {
+  display: inline-block;
+  margin-right: 10px;
+  vertical-align: middle;
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+}
+
+#wrapper-txt.active {
+  padding: 15px;
+  background-color: #e9e9e9;
+  border-radius: 4px;
+}
+
+#wrapper-txt p {
+  line-height: 1.5;
+}
+
+#mail span, #adresse span {
+  color: #007bff;
+}
+
+#telephone img {
+  display: block;
+  margin: 10px auto;
+}
+
+@media (max-width: 768px) {
+  .stl_select-wrapper {
+    padding: 10px;
+  }
+  .stl_select {
+    width: 100%;
+  }
+}/*# sourceMappingURL=index.css.map */
