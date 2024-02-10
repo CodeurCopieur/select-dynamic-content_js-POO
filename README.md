@@ -1,7 +1,8 @@
 # select dynamic content js-POO
 
-> Le script Shaker est une implémentation JavaScript qui permet de dynamiser l'interaction utilisateur avec un formulaire de sélection sur une page web. Il écoute les changements sur un élément select  
-> Et met à jour dynamiquement le contenu d'un élément cible (wrapperTxt) basé sur la sélection de l'utilisateur. Ce script est particulièrement utile pour afficher des informations spécifiques liées à la sélection de l'utilisateur sans nécessiter de recharger la page.
+``Le script Shaker est une implémentation JavaScript qui permet de dynamiser l'interaction utilisateur avec un formulaire de sélection sur une page web. Il écoute les changements sur un élément select  ``
+
+``Et met à jour dynamiquement le contenu d'un élément cible (wrapperTxt) basé sur la sélection de l'utilisateur. Ce script est particulièrement utile pour afficher des informations spécifiques liées à la sélection de l'utilisateur sans nécessiter de recharger la page.``
 
 
 ## Technologies Utilisées
